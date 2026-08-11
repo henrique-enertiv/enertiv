@@ -15,7 +15,8 @@
   "dr_count": 67,
   "reg_count": 35,
   "reg_policy": "state and city benchmarking and building performance rules",
-  "total_penalty": 2211271
+  "total_penalty": 2211271,
+  "scope_label": "where your tenants hold the utility account"
  },
  "buildings": [
   {
